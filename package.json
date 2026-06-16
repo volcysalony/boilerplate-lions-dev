@@ -11,6 +11,7 @@
     "express",
     "mongodb",
     "mongoose",
+    "dotenv",
     "mvc",
     "jwt",
     "bcrypt"
